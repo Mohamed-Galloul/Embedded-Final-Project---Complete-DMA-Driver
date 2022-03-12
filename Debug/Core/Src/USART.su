@@ -1,0 +1,6 @@
+USART.c:27:6:USART2_EnableClock	4	static
+USART.c:32:6:USART_Enable	4	static
+USART.c:42:6:Write_USART_DR	16	static
+USART.c:48:15:Read_USART_DR	16	static
+USART.c:54:15:Read_TC_Bit	16	static
+USART.c:60:6:Clear_TC_Bit	4	static

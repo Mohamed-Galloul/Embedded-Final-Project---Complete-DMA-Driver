@@ -1,0 +1,5 @@
+DMA.c:30:6:DMA2_Enable_Clock	4	static
+DMA.c:35:6:DMA2_Config	24	static
+DMA.c:91:6:DMA2_Start_TFR	4	static
+DMA.c:100:15:Check_TC_Flag	16	static
+DMA.c:107:6:Clear_TC_Flag	4	static

@@ -1,0 +1,4 @@
+main.c:22:5:main	32	static
+main.c:67:6:DMA2_Stream0_IRQHandler	16	static
+main.c:80:6:Print_Message	16	static
+main.c:102:6:delay_ms	24	static
